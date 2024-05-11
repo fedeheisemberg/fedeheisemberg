@@ -6,7 +6,6 @@
 - 💬 Pregúntame sobre empresas o videojuegos.
 - 📫 Cómo contactarme: fedemarti0107@gmail.com
 - 🏢 Actualmente soy Co Founder de Optima - Consulting & Management, una empresa de finanzas quant.
-  [![Optima](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]((https://www.instagram.com/optima.llc/))
 
 
 ## 🛠 Habilidades
