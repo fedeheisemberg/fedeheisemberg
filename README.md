@@ -1,11 +1,11 @@
 # Hola, soy Fede Martinez 👋
 
 ## 👨‍💻 Sobre Mí
-- 🎓 Soy un estudiante de Ciencias Económicas y de la Administración interesado en Ciencias de Datos y Quantitative Finance.
+- 🎓 Soy un estudiante de Ciencias Económicas y de la Administración, interesado en Ciencias de Datos y Quantitative Finance.
 - 🌱 Actualmente estoy aprendiendo Machine Learning aplicado al mundo de los mercados financieros.
 - 💬 Pregúntame sobre empresas o videojuegos.
 - 📫 Cómo contactarme: fedemarti0107@gmail.com
-- 🏢 Actualmente soy Co Founder de Optima - Consulting & Management, una empresa de finanzas quant.
+- 🏢 Co fundé Optima - Consulting & Management, una empresa de finanzas quant.
 
 
 ## 🛠 Habilidades
