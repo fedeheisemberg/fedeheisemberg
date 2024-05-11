@@ -18,6 +18,7 @@
 - ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+- ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=excel)
 
 ## 🤝 Conecta Conmigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)]([tu-enlace-de-linkedin](https://www.linkedin.com/in/federicoluismartinez/))
