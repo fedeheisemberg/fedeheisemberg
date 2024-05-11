@@ -6,6 +6,8 @@
 - 💬 Pregúntame sobre empresas o videojuegos.
 - 📫 Cómo contactarme: fedemarti0107@gmail.com
 - 🏢 Actualmente soy Co Founder de Optima - Consulting & Management, una empresa de finanzas quant.
+  [![Optima](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]((https://www.instagram.com/optima.llc/))
+
 
 ## 🛠 Habilidades
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -18,9 +20,7 @@
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 
-## ⚙️ Estadísticas de GitHub
-![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-
 ## 🤝 Conecta Conmigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)]([tu-enlace-de-linkedin](https://www.linkedin.com/in/federicoluismartinez/))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fede.lmarti/?img_index=1)
 
