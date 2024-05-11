@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hola, soy Fede Martinez 👋
 
-<!--
-**fedeheisemberg/fedeheisemberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre Mí
+- 🎓 Soy un estudiante de Ciencias Económicas y de la Administración interesado en Ciencias de Datos y Quantitative Finance.
+- 🌱 Actualmente estoy aprendiendo Machine Learning aplicado al mundo de los mercados financieros.
+- 💬 Pregúntame sobre empresas o videojuegos.
+- 📫 Cómo contactarme: fedemarti0107@gmail.com
+- 🏢 Actualmente soy Co Founder de Optima - Consulting & Management, una empresa de finanzas quant.
 
-Here are some ideas to get you started:
+## 🛠 Habilidades
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
+- ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=gnome-terminal)
+- ![PowerBI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+- ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Estadísticas de GitHub
+![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
+## 🤝 Conecta Conmigo:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)]([tu-enlace-de-linkedin](https://www.linkedin.com/in/federicoluismartinez/))
+
