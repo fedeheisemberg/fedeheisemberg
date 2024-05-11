@@ -3,7 +3,7 @@
 ## 👨‍💻 Sobre Mí
 - 🎓 Soy un estudiante de Ciencias Económicas y de la Administración, interesado en Ciencias de Datos y Quantitative Finance.
 - 🌱 Actualmente estoy aprendiendo Machine Learning aplicado al mundo de los mercados financieros.
-- 💬 Pregúntame sobre empresas o videojuegos.
+- 💬 Pregúntame sobre empresas, música electrónica o videojuegos.
 - 📫 Cómo contactarme: fedemarti0107@gmail.com
 - 🏢 Co fundé Optima - Consulting & Management, una empresa de finanzas quant.
 
@@ -18,7 +18,8 @@
 - ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-- ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=excel)
+- ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
 
 ## 🤝 Conecta Conmigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)]([tu-enlace-de-linkedin](https://www.linkedin.com/in/federicoluismartinez/))
